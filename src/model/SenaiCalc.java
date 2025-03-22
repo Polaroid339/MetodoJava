@@ -12,6 +12,7 @@ public class SenaiCalc {
     public int multiplicacao(int a, int b) {
         return a * b;
     }
+    
     public double divisao(double a, double b) {
         if (b != 0){
             return a / b;
